@@ -1,6 +1,6 @@
 # Influence-of-counting-noise-on-Ecoli-chemotaxis
 
-main.py containes the code and paramters to simulate trajectories, to simulate trajectories run chemoscript.py
+main.py containes the code and parameters to simulate trajectories, run chemoscript.py to simulate multiple trajectories and the output is a txt file for each trajectory.
 
 Figures in the thesis - 
 data_analysis_plots_1 : Figure 16, Figure 17, Figure 18, Figure 21A, Figure 22, Figure 23 -
