@@ -1,5 +1,7 @@
 # Influence-of-counting-noise-on-Ecoli-chemotaxis
 
+Code used to reproduce and analyze a model of chemotactic behaviour of Escherichia coli.
+
 main.py containes the code and parameters to simulate trajectories, run chemoscript.py to simulate multiple trajectories and the output is a txt file for each trajectory.
 
 Figures in the thesis - 
